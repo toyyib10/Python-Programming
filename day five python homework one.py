@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[14]:
+# In[2]:
 
 
 total = 0
@@ -19,7 +19,6 @@ while True:
             continue
     else:
         print('done!')
-        print(total, count, total/count)
-        value = ' '
         break
+print(total, count, total/count)
 
